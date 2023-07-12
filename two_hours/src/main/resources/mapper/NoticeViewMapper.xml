@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--
+    名称空间
+ -->
+<mapper namespace="com.czj.mapper.view.NoticeViewMapper">
+    <select id="getLatestEightNotice" resultType="com.czj.pojo.view.NoticeView">
+        select * from th_notice_view where course_id in
+        (select course_id from th_course_user where user_id = #{userId})
+        order by create_time desc
+        limit 0,#{size}
+    </select>
+</mapper>

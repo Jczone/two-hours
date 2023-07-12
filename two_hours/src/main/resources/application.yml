@@ -1,0 +1,42 @@
+# 端口设置
+server:
+  port: 8080
+
+# 数据库连接信息
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql:///two hours?serverTimezone=UTC&allowMultiQueries=true
+      username: root
+      password: 123456
+      driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 400MB
+      # 上传中文件的大小
+      max-request-size: 400MB
+      # 单个文件上传大小
+      file-size-threshold: 400MB
+
+myProject:
+  static:
+    # 项目静态资源中用户文件夹路径
+    userFiles: F:\Desktop\two_hours\src\main\resources\static\files\user\
+    # 项目静态资源中公开静态资源路径
+    staticImgs: F:\Desktop\two_hours\src\main\resources\static\imgs\
+    # 项目新用户注册默认头像路径-相对路径
+    UserAvatarUrl: /imgs/user/default.jpg
+    # 项目新用户注册默认头像路径-相对路径
+    CourseCoverUrl: /imgs/course/default.jpg
+
+# 表前缀配置
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: th_
+      # id增长方式
+      id-type: auto
+  configuration:
+    # 启动日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
