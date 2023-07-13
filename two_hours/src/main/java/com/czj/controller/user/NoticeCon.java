@@ -3,6 +3,7 @@ package com.czj.controller.user;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.czj.controller.util.CLog;
 import com.czj.controller.util.DEA;
 import com.czj.pojo.com.CourseUser;
 import com.czj.pojo.com.Notice;

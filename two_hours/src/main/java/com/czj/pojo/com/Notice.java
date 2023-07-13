@@ -1,6 +1,7 @@
 package com.czj.pojo.com;
 
 import com.baomidou.mybatisplus.annotation.TableId;
+import com.czj.util.TimeFormat;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -27,8 +28,7 @@ public class Notice {
     private Date createTime;
     // 格式化时间
     public String getFormatDate(){
-        SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        return sdf.format(createTime);
+        return TimeFormat.formatTimeToYMDHMS(createTime);
     }
 
 }

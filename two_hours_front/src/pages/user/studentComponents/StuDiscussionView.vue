@@ -357,6 +357,7 @@
     /* 发表时间 */
     #discussionDate{
         color: #8a8a8a;
+        font-size: 16px;
         margin-left: 20px;
     }
     /* 讨论标题 */
@@ -419,10 +420,12 @@
     /* 回复人姓名 */
     .fromUserName{
         color: #818181;
+        font-size: 18px;
     }
     /* 回复时间 */
     .ReplyDate{
         color: #818181;
+        font-size: 16px;
         margin-left: 20px;
     }
     /*　＠目标姓名　*/
