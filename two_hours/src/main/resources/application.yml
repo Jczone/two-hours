@@ -21,9 +21,9 @@ spring:
 myProject:
   static:
     # 项目静态资源中用户文件夹路径
-    userFiles: F:\Desktop\two_hours\src\main\resources\static\files\user\
+    userFiles: F:\workspace\TwoHours\two_hours\src\main\resources\static\files\user\
     # 项目静态资源中公开静态资源路径
-    staticImgs: F:\Desktop\two_hours\src\main\resources\static\imgs\
+    staticImgs: F:\workspace\TwoHours\two_hours\src\main\resources\static\imgs\
     # 项目新用户注册默认头像路径-相对路径
     UserAvatarUrl: /imgs/user/default.jpg
     # 项目新用户注册默认头像路径-相对路径
