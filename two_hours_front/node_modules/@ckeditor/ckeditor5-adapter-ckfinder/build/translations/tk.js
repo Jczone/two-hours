@@ -1,0 +1,1 @@
+!function(n){const i=n.tk=n.tk||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Faýl ýükläp bolmady:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

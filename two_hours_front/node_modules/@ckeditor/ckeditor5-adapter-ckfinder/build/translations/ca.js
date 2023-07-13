@@ -1,0 +1,1 @@
+!function(i){const n=i.ca=i.ca||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"No es pot pujar l'arxiu:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

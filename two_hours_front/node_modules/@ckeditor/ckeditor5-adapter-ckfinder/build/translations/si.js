@@ -1,0 +1,1 @@
+!function(i){const n=i.si=i.si||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"ගොනුව යාවත්කාලීන කළ නොහැක:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

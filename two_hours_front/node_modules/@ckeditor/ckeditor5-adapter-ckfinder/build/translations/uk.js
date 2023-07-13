@@ -1,0 +1,1 @@
+!function(n){const i=n.uk=n.uk||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Неможливо завантажити файл:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

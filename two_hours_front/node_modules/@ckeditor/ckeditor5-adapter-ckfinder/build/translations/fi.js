@@ -1,0 +1,1 @@
+!function(i){const o=i.fi=i.fi||{};o.dictionary=Object.assign(o.dictionary||{},{"Cannot upload file:":"Tiedostoa ei voitu ladata:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

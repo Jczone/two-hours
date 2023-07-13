@@ -1,0 +1,1 @@
+!function(i){const n=i.fr=i.fr||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Envoi du fichier échoué :"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

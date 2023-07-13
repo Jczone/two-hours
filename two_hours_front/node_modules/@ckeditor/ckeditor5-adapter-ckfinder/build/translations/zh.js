@@ -1,0 +1,1 @@
+!function(n){const i=n.zh=n.zh||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"無法上傳檔案："})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

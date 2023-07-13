@@ -1,0 +1,1 @@
+!function(n){const i=n.ug=n.ug||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"يۈكلەشكە بولمايدىغان ھۆججەت:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

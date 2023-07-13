@@ -1,0 +1,1 @@
+!function(o){const i=o.pt=o.pt||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Não foi possível carregar o ficheiro:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

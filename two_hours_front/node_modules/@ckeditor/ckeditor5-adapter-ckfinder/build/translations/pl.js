@@ -1,0 +1,1 @@
+!function(i){const n=i.pl=i.pl||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Nie można przesłać pliku:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

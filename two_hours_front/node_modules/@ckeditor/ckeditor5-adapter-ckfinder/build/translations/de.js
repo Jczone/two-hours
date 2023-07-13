@@ -1,0 +1,1 @@
+!function(n){const i=n.de=n.de||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Die Datei kann nicht hochgeladen werden:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

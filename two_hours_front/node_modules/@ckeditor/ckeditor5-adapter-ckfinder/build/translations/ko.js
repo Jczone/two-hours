@@ -1,0 +1,1 @@
+!function(n){const o=n.ko=n.ko||{};o.dictionary=Object.assign(o.dictionary||{},{"Cannot upload file:":"파일 업로드할 수 없음: "})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

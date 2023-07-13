@@ -1,0 +1,1 @@
+!function(i){const n=i.lv=i.lv||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Nevar augšupielādēt failu:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

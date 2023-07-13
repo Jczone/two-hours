@@ -1,0 +1,1 @@
+!function(n){const i=n.ku=n.ku||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"پەڕگەکە ناتوانرێت باربکرێت:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

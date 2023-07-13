@@ -1,0 +1,1 @@
+!function(i){const n=i.id=i.id||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Tidak dapat mengunggah berkas:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

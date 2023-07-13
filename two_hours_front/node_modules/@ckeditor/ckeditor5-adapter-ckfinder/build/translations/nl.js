@@ -1,0 +1,1 @@
+!function(n){const i=n.nl=n.nl||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Kan bestand niet uploaden:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
