@@ -1,1 +1,0 @@
-!function(n){const i=n.sr=n.sr||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Постављање фајла је неуспешно:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

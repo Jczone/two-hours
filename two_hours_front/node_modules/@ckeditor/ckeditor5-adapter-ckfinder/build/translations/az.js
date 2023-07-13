@@ -1,1 +1,0 @@
-!function(i){const n=i.az=i.az||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Fayl yüklənə bilmir"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

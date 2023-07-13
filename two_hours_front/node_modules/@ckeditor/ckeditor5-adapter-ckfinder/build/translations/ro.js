@@ -1,1 +1,0 @@
-!function(i){const n=i.ro=i.ro||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Nu se poate încărca fișierul:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

@@ -1,1 +1,0 @@
-!function(n){const i=n.tr=n.tr||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Dosya yüklenemedi:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

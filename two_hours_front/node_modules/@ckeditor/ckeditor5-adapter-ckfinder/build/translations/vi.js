@@ -1,1 +1,0 @@
-!function(i){const n=i.vi=i.vi||{};n.dictionary=Object.assign(n.dictionary||{},{"Cannot upload file:":"Không thể tải file:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

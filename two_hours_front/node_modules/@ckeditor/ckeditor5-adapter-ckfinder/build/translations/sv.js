@@ -1,1 +1,0 @@
-!function(n){const i=n.sv=n.sv||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Kan inte ladda upp fil:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

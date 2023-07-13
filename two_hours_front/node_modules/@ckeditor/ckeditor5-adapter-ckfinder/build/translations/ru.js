@@ -1,1 +1,0 @@
-!function(n){const i=n.ru=n.ru||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Невозможно загрузить файл"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));

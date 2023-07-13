@@ -1,1 +1,0 @@
-!function(o){const i=o["pt-br"]=o["pt-br"]||{};i.dictionary=Object.assign(i.dictionary||{},{"Cannot upload file:":"Não foi possível enviar o arquivo:"})}(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
