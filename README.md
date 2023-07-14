@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/mybatis-3.x-blue.svg"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg"/>
 </p>
+
 ## 一、简单讲讲
 
 繁星之辰是一款基于SSMP开发的在线教学考试系统，系统主要提供视频学习、资料共享、信息发布、讨论板块、实验板块、在线考试等服务。系统为前后端分离架构，前端基于Vue框架开发，使用Element UI组件库辅助设计。后端开发基于SpringBoot框架，使用MyBatis Plus完成持久层设计，通过MySQL进行数据库管理，系统数据通过SHA1算法加密传输。
