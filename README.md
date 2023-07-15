@@ -1,5 +1,5 @@
 <p>
-    <h1 align="center">在线教学考试平台</h1>
+    <h1 align="center">在线教学考试系统</h1>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
@@ -8,27 +8,43 @@
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg"/>
 </p>
 
+> 系统是我的本科毕业设计，欢迎大家前来讨论
+
 ## 一、简单讲讲
 
 繁星之辰是一款基于SSMP开发的在线教学考试系统，系统主要提供视频学习、资料共享、信息发布、讨论板块、实验板块、在线考试等服务。系统为前后端分离架构，前端基于Vue框架开发，使用Element UI组件库辅助设计。后端开发基于SpringBoot框架，使用MyBatis Plus完成持久层设计，通过MySQL进行数据库管理，系统数据通过SHA1算法加密传输。
 
-## 二、特色功能
+## 二、功能介绍
 
-系统中有两种角色：管理员、用户（既有教师功能，也有学生功能）
+系统中有两种角色：管理员、用户（既有教师功能，也有学生功能）。
+
+功能解说：[【基于ssmp和vue的在线教学、在线考试系统】](https://www.bilibili.com/video/BV1xo4y1b7Uf/?share_source=copy_web&vd_source=e0625528859727378ed9b12a0b289e5d) 
 
 ### 1. 用户
 
+#### 1.1 系统首页
+
+![系统首页](./assets/系统首页.png)
+
+#### 1.2 平台公告
+
+![平台公告](./assets/平台公告.png)
+
+#### 1.3 用户登录
+
+![用户登录](./assets/用户登录.png)
+
+  
 
 
 
 
-### 2. 管理员
 
 
 
 
 
-  系统中表格下的分页工具栏设置了数据小于10条自动隐藏。
+系统中表格下的分页工具栏设置了数据小于10条自动隐藏。
 
   文件名隐藏了序列号前缀
 
@@ -44,7 +60,7 @@
 
 ### 2. 前端项目（two_hours_front)
 
-下载后用WebStorm打开项目文件夹，在命令行手动安装node_modules，命令npm install，出现爆红和冲突请后缀`--force`。模块导入完成后，需要配置运行栏，选择npm运行，命令为run，Scripts为serve。
+下载后用WebStorm打开项目文件夹，在命令行手动安装node_modules，命令`npm install`，出现爆红和冲突请后缀`--force`。模块导入完成后，需要配置运行栏，选择npm运行，命令为run，Scripts为serve。
 
 前端项目没有做比例适配，建议浏览器使用100%缩放。
 
