@@ -395,15 +395,15 @@
     /* 题型选择栏 */
     #controlSubject{
         text-align: right;
-        margin-bottom: 0.6em;
+        margin-bottom: 9px;
     }
     /* 展开折叠按钮 */
     .conSubjectButton{
-        right: 6em;
+        right: 90px;
         position: relative;
     }
     .startLogicFlow{
-        right: 80em;
+        right: 1300px;
         position: relative;
     }
     /**
